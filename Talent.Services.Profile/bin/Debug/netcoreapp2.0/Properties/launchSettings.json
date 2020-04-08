@@ -3,7 +3,7 @@
     "windowsAuthentication": false,
     "anonymousAuthentication": true,
     "iisExpress": {
-      "applicationUrl": "https://talentservicesprofileapi.azurewebsites.net/",
+      "applicationUrl": "http://localhost:58452/",
       "sslPort": 0
     }
   },
@@ -15,13 +15,13 @@
         "ASPNETCORE_ENVIRONMENT": "Development"
       }
     },
-    "Mars.Services.Profile": {
+    "Talent.Services.Profile": {
       "commandName": "Project",
       "launchBrowser": true,
       "environmentVariables": {
         "ASPNETCORE_ENVIRONMENT": "Development"
       },
-      "applicationUrl": "https://talentservicesprofileapi.azurewebsites.net/"
+      "applicationUrl": "http://localhost:5000"
     }
   }
 }

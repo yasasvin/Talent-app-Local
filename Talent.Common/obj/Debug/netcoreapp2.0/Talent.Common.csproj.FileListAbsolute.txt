@@ -5,3 +5,11 @@ C:\projects\k\talent-standard-App-master\Talent.Common\obj\Debug\netcoreapp2.0\T
 C:\projects\k\talent-standard-App-master\Talent.Common\obj\Debug\netcoreapp2.0\Talent.Common.AssemblyInfo.cs
 C:\projects\k\talent-standard-App-master\Talent.Common\obj\Debug\netcoreapp2.0\Talent.Common.dll
 C:\projects\k\talent-standard-App-master\Talent.Common\obj\Debug\netcoreapp2.0\Talent.Common.pdb
+C:\projects\k\talent-standard-App-master\Talent-app-Local\Talent.Common\bin\Debug\netcoreapp2.0\Talent.Common.deps.json
+C:\projects\k\talent-standard-App-master\Talent-app-Local\Talent.Common\bin\Debug\netcoreapp2.0\Talent.Common.dll
+C:\projects\k\talent-standard-App-master\Talent-app-Local\Talent.Common\bin\Debug\netcoreapp2.0\Talent.Common.pdb
+C:\projects\k\talent-standard-App-master\Talent-app-Local\Talent.Common\obj\Debug\netcoreapp2.0\Talent.Common.csprojAssemblyReference.cache
+C:\projects\k\talent-standard-App-master\Talent-app-Local\Talent.Common\obj\Debug\netcoreapp2.0\Talent.Common.AssemblyInfoInputs.cache
+C:\projects\k\talent-standard-App-master\Talent-app-Local\Talent.Common\obj\Debug\netcoreapp2.0\Talent.Common.AssemblyInfo.cs
+C:\projects\k\talent-standard-App-master\Talent-app-Local\Talent.Common\obj\Debug\netcoreapp2.0\Talent.Common.dll
+C:\projects\k\talent-standard-App-master\Talent-app-Local\Talent.Common\obj\Debug\netcoreapp2.0\Talent.Common.pdb

@@ -28,7 +28,7 @@ export default class TalentDetail extends React.Component {
     loadData(){
         var cookies = Cookies.get('talentAuthToken');
         $.ajax({
-            url: 'http://localhost:60290/profile/profile/getTalentProfile/?id=' + '5c7a16883d0772387c62e20a',
+            url: 'http://localhost:58452/profile/profile/getTalentProfile/?id=' + '5c7a16883d0772387c62e20a',
             headers: {
                 'Authorization': 'Bearer ' + cookies,
                 'Content-Type': 'application/json'

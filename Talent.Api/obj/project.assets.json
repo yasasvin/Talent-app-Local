@@ -14780,11 +14780,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\projects\\k\\talent-standard-App-master\\Talent.Api\\Talent.Api.csproj",
+      "projectUniqueName": "C:\\projects\\k\\talent-standard-App-master\\Talent-app-Local\\Talent.Api\\Talent.Api.csproj",
       "projectName": "Talent.Api",
-      "projectPath": "C:\\projects\\k\\talent-standard-App-master\\Talent.Api\\Talent.Api.csproj",
+      "projectPath": "C:\\projects\\k\\talent-standard-App-master\\Talent-app-Local\\Talent.Api\\Talent.Api.csproj",
       "packagesPath": "C:\\Users\\cham\\.nuget\\packages\\",
-      "outputPath": "C:\\projects\\k\\talent-standard-App-master\\Talent.Api\\obj\\",
+      "outputPath": "C:\\projects\\k\\talent-standard-App-master\\Talent-app-Local\\Talent.Api\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -14803,8 +14803,8 @@
       "frameworks": {
         "netcoreapp2.0": {
           "projectReferences": {
-            "C:\\projects\\k\\talent-standard-App-master\\Talent.Common\\Talent.Common.csproj": {
-              "projectPath": "C:\\projects\\k\\talent-standard-App-master\\Talent.Common\\Talent.Common.csproj"
+            "C:\\projects\\k\\talent-standard-App-master\\Talent-app-Local\\Talent.Common\\Talent.Common.csproj": {
+              "projectPath": "C:\\projects\\k\\talent-standard-App-master\\Talent-app-Local\\Talent.Common\\Talent.Common.csproj"
             }
           }
         }

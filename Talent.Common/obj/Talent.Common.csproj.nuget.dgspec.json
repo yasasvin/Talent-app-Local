@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\projects\\k\\talent-standard-App-master\\Talent.Common\\Talent.Common.csproj": {}
+    "C:\\projects\\k\\talent-standard-App-master\\Talent-app-Local\\Talent.Common\\Talent.Common.csproj": {}
   },
   "projects": {
-    "C:\\projects\\k\\talent-standard-App-master\\Talent.Common\\Talent.Common.csproj": {
+    "C:\\projects\\k\\talent-standard-App-master\\Talent-app-Local\\Talent.Common\\Talent.Common.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\projects\\k\\talent-standard-App-master\\Talent.Common\\Talent.Common.csproj",
+        "projectUniqueName": "C:\\projects\\k\\talent-standard-App-master\\Talent-app-Local\\Talent.Common\\Talent.Common.csproj",
         "projectName": "Talent.Common",
-        "projectPath": "C:\\projects\\k\\talent-standard-App-master\\Talent.Common\\Talent.Common.csproj",
+        "projectPath": "C:\\projects\\k\\talent-standard-App-master\\Talent-app-Local\\Talent.Common\\Talent.Common.csproj",
         "packagesPath": "C:\\Users\\cham\\.nuget\\packages\\",
-        "outputPath": "C:\\projects\\k\\talent-standard-App-master\\Talent.Common\\obj\\",
+        "outputPath": "C:\\projects\\k\\talent-standard-App-master\\Talent-app-Local\\Talent.Common\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

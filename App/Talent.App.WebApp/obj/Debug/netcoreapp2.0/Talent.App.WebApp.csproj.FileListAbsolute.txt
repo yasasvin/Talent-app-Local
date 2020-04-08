@@ -37,3 +37,17 @@ C:\projects\k\talent-standard-App-master\App\Talent.App.WebApp\obj\Debug\netcore
 C:\projects\k\talent-standard-App-master\App\Talent.App.WebApp\obj\Debug\netcoreapp2.0\Talent.App.WebApp.AssemblyInfo.cs
 C:\projects\k\talent-standard-App-master\App\Talent.App.WebApp\obj\Debug\netcoreapp2.0\Talent.App.WebApp.dll
 C:\projects\k\talent-standard-App-master\App\Talent.App.WebApp\obj\Debug\netcoreapp2.0\Talent.App.WebApp.pdb
+C:\projects\k\talent-standard-App-master\Talent-app-Local\App\Talent.App.WebApp\bin\Debug\netcoreapp2.0\appsettings.Development.json
+C:\projects\k\talent-standard-App-master\Talent-app-Local\App\Talent.App.WebApp\bin\Debug\netcoreapp2.0\appsettings.json
+C:\projects\k\talent-standard-App-master\Talent-app-Local\App\Talent.App.WebApp\bin\Debug\netcoreapp2.0\bundleconfig.json
+C:\projects\k\talent-standard-App-master\Talent-app-Local\App\Talent.App.WebApp\bin\Debug\netcoreapp2.0\Properties\launchSettings.json
+C:\projects\k\talent-standard-App-master\Talent-app-Local\App\Talent.App.WebApp\bin\Debug\netcoreapp2.0\Talent.App.WebApp.deps.json
+C:\projects\k\talent-standard-App-master\Talent-app-Local\App\Talent.App.WebApp\bin\Debug\netcoreapp2.0\Talent.App.WebApp.runtimeconfig.json
+C:\projects\k\talent-standard-App-master\Talent-app-Local\App\Talent.App.WebApp\bin\Debug\netcoreapp2.0\Talent.App.WebApp.runtimeconfig.dev.json
+C:\projects\k\talent-standard-App-master\Talent-app-Local\App\Talent.App.WebApp\bin\Debug\netcoreapp2.0\Talent.App.WebApp.dll
+C:\projects\k\talent-standard-App-master\Talent-app-Local\App\Talent.App.WebApp\bin\Debug\netcoreapp2.0\Talent.App.WebApp.pdb
+C:\projects\k\talent-standard-App-master\Talent-app-Local\App\Talent.App.WebApp\obj\Debug\netcoreapp2.0\Talent.App.WebApp.csprojAssemblyReference.cache
+C:\projects\k\talent-standard-App-master\Talent-app-Local\App\Talent.App.WebApp\obj\Debug\netcoreapp2.0\Talent.App.WebApp.AssemblyInfoInputs.cache
+C:\projects\k\talent-standard-App-master\Talent-app-Local\App\Talent.App.WebApp\obj\Debug\netcoreapp2.0\Talent.App.WebApp.AssemblyInfo.cs
+C:\projects\k\talent-standard-App-master\Talent-app-Local\App\Talent.App.WebApp\obj\Debug\netcoreapp2.0\Talent.App.WebApp.dll
+C:\projects\k\talent-standard-App-master\Talent-app-Local\App\Talent.App.WebApp\obj\Debug\netcoreapp2.0\Talent.App.WebApp.pdb

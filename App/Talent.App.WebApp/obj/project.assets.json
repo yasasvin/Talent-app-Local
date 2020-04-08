@@ -13648,11 +13648,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\projects\\k\\talent-standard-App-master\\App\\Talent.App.WebApp\\Talent.App.WebApp.csproj",
+      "projectUniqueName": "C:\\projects\\k\\talent-standard-App-master\\Talent-app-Local\\App\\Talent.App.WebApp\\Talent.App.WebApp.csproj",
       "projectName": "Talent.App.WebApp",
-      "projectPath": "C:\\projects\\k\\talent-standard-App-master\\App\\Talent.App.WebApp\\Talent.App.WebApp.csproj",
+      "projectPath": "C:\\projects\\k\\talent-standard-App-master\\Talent-app-Local\\App\\Talent.App.WebApp\\Talent.App.WebApp.csproj",
       "packagesPath": "C:\\Users\\cham\\.nuget\\packages\\",
-      "outputPath": "C:\\projects\\k\\talent-standard-App-master\\App\\Talent.App.WebApp\\obj\\",
+      "outputPath": "C:\\projects\\k\\talent-standard-App-master\\Talent-app-Local\\App\\Talent.App.WebApp\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
